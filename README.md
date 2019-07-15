@@ -1,5 +1,5 @@
 # DLP
-This is in addition to the solution described here https://cloud.google.com/solutions/automating-classification-of-data-uploaded-to-cloud-storage
+This is in addition to the [solution] (https://cloud.google.com/solutions/automating-classification-of-data-uploaded-to-cloud-storage)
 Adding Mask 
 
 Prerequisites
