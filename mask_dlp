@@ -27,9 +27,9 @@ import os
 # ----------------------------
 #  User-configurable Constants
 
-PROJECT_ID = 'PROJECT_ID'
-SENSITIVE_BUCKET = 'SENSITIVE_BUCKET'
-MASKED_BUCKET = 'MASKED_BUCKET'
+PROJECT_ID = 'YOUR_PROJECT_ID'
+SENSITIVE_BUCKET = 'YOUR_SENSITIVE_BUCKET'
+MASKED_BUCKET = 'YOUR_MASKED_BUCKET'
 MIN_LIKELIHOOD = 'POSSIBLE'
 """The maximum number of findings to report (0 = server maximum)"""
 MAX_FINDINGS = 0
